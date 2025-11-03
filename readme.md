@@ -12,7 +12,7 @@ This is a best practice that keeps your project's packages separate from your sy
 
 1. Open your terminal in your project folder (e.g., ```.../Projects/College/Mohit```).  
 2. Run the following command to create a virtual environment folder named venv:  
-   ```python3 \-m venv venv```
+   ```python3 -m venv venv```
 
    *(Note: If ```python3``` doesn't work, you can try just ```python```)*  
 3. Activate the environment. This changes your terminal to "use" this new empty environment:  
